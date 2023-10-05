@@ -1,0 +1,205 @@
+{
+  "uuid": "4bde6ffe-f6b3-4ede-b606-51d6eea233e4",
+  "fname": "input_01.csv",
+  "errors": null,
+  "payload": [
+    {
+      "employeeCode": "611207NCLTAGZQ8U-NJFVQ5OWYFG",
+      "action": "hire",
+      "data": {
+        "SystemId": "02EDC235D00C4FF1A7245550E4EC3216",
+        "contract.endDate": "",
+        "contract.signatureDate": "1992-06-16",
+        "contract.type": "indefinite",
+        "contract.workStartDate": "1992-07-01",
+        "contract.workerId": "611207BE",
+        "worker.gender": "male",
+        "worker.grandmotherMaidenName": "Sexton",
+        "worker.motherMaidenName": "Gallagher",
+        "worker.name": "Alberto Leonard",
+        "worker.numberOfKids": "0"
+      },
+      "payComponents": [
+        {
+          "amount": 3300.0,
+          "type": "Pay",
+          "currency": "USD",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 0.0,
+          "type": "Compensation",
+          "currency": "",
+          "startDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "employeeCode": "660831ZXFFPDZS80WU1KTYSTXJAG",
+      "action": "change",
+      "data": {
+        "SystemId": "09E85CF7C0AE48F386ABCD14BCA66C67",
+        "contract.endDate": "",
+        "contract.signatureDate": "1992-06-17",
+        "contract.type": "indefinite",
+        "contract.workStartDate": "1998-09-06",
+        "contract.workerId": "660831F5",
+        "worker.gender": "female",
+        "worker.grandmotherMaidenName": "Lynn",
+        "worker.motherMaidenName": "Vaughn",
+        "worker.name": "Hazel Webster",
+        "worker.numberOfKids": "2"
+      },
+      "payComponents": [
+        {
+          "amount": 4400.0,
+          "type": "Pay",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 500.0,
+          "type": "Compensation-health",
+          "currency": "EUR",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        }
+      ]
+    },
+    {
+      "employeeCode": "671124QOC9VZVY6UANETMKCF-XIQ",
+      "action": "change",
+      "data": {
+        "SystemId": "98CBACE8E0694049AFF768B747441F89",
+        "contract.endDate": "1999-09-06",
+        "contract.signatureDate": "",
+        "contract.type": "",
+        "contract.workStartDate": "",
+        "contract.workerId": "6711242C",
+        "worker.gender": "female",
+        "worker.grandmotherMaidenName": "Mcdonald",
+        "worker.motherMaidenName": "",
+        "worker.name": "Tara Maynard",
+        "worker.numberOfKids": "0"
+      },
+      "payComponents": [
+        {
+          "amount": 4100.0,
+          "type": "Pay",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 0.0,
+          "type": "Compensation",
+          "currency": "",
+          "startDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "employeeCode": "780504OGAFWWOPP0IUN5L8UOG5JQ",
+      "action": "terminate",
+      "data": {
+        "SystemId": "65F7F49843B04AE6B871ABBBAB03B8EC",
+        "contract.endDate": "2007-12-31",
+        "contract.signatureDate": "1992-06-20",
+        "contract.type": "limited",
+        "contract.workStartDate": "2007-07-18",
+        "contract.workerId": "7805046C",
+        "worker.gender": "female",
+        "worker.grandmotherMaidenName": "",
+        "worker.motherMaidenName": "Mitchell",
+        "worker.name": "",
+        "worker.numberOfKids": "0"
+      },
+      "payComponents": [
+        {
+          "amount": 1500.0,
+          "type": "Pay",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 0.0,
+          "type": "Compensation",
+          "currency": "",
+          "startDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "employeeCode": "800724TXDA4RDQVKI3EEP4BINJJQ",
+      "action": "hire",
+      "data": {
+        "SystemId": "23C73C483F434848875FA0E6A7CBC9B5",
+        "contract.endDate": "",
+        "contract.signatureDate": "1992-06-21",
+        "contract.type": "indefinite",
+        "contract.workStartDate": "2013-05-31",
+        "contract.workerId": "80072480",
+        "worker.gender": "male",
+        "worker.grandmotherMaidenName": "Keller",
+        "worker.motherMaidenName": "Ellis",
+        "worker.name": "Brock Salazar",
+        "worker.numberOfKids": "0"
+      },
+      "payComponents": [
+        {
+          "amount": 1400.0,
+          "type": "Pay",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 100.0,
+          "type": "Compensation-health",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        }
+      ]
+    },
+    {
+      "employeeCode": "900405O7OLBUVB90WAYHVYKUXKGQ",
+      "action": "change",
+      "data": {
+        "SystemId": "00464B34B3E2453980DC1BABB8BAF2D9",
+        "contract.endDate": "",
+        "contract.signatureDate": "1992-06-22",
+        "contract.type": "indefinite",
+        "contract.workStartDate": "2015-05-31",
+        "contract.workerId": "90040543",
+        "worker.gender": "male",
+        "worker.grandmotherMaidenName": "Roberts",
+        "worker.motherMaidenName": "Woodward",
+        "worker.name": "Cole Sloan",
+        "worker.numberOfKids": "0"
+      },
+      "payComponents": [
+        {
+          "amount": 3000.0,
+          "type": "Pay",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-01-31"
+        },
+        {
+          "amount": 50.0,
+          "type": "Compensation-discount",
+          "currency": "EUR",
+          "startDate": "2022-01-01",
+          "endDate": "2022-07-01"
+        }
+      ]
+    }
+  ]
+}
